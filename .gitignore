@@ -5,8 +5,9 @@ target/
 # Ignore IntelliJ IDEA and Maven folders
 .idea/
 .mvn/
-mvnw
+# Ignore Maven wrapper files
 mvnw.cmd
+mvnw
 ### STS ###
 .apt_generated
 .classpath
